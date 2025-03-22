@@ -9,8 +9,8 @@
 
 ## Tech Stack!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aurdino,bash,cloudflare,discord,bot,docker,git,github,gmail,instagram,idea,linux,md,raspberrypi,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,cloudflare,discord,bots,docker,git,github,gmail,instagram,idea,linux,md,raspberrypi,vercel,vscode)](https://skillicons.dev)
 
 ## Learning!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aurdino,bash,discord,bot,docker,linux,robloxstudio,sqlite,svelte,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,arduino,bash,discord,bots,docker,linux,robloxstudio,sqlite,svelte,ubuntu,windows)](https://skillicons.dev)
