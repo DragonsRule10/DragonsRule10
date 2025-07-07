@@ -1,16 +1,40 @@
-# Hi there!! 👋
-## I'm Tristin,
-* a young technology teen from the USA. I've been in the tech world since 2019, when my dad brought home a Raspberry PI 3, of which I still have to this day. Since receiving that PI 3, I've expanded my knowledge, taking almost every local opportunity I can. I have basic knowledge of Linux, Windows, computer components, Network engineering, and can read most code and make sense of it. I have my own home lab for general testing, composed of a Dell T8510, Raspberry PI 5, Netgear Network Switch and access point. Learn more about my home lab at my youtube channel. 
+# 👋 Hi, I'm DragonsRule10!
 
-## Check out my sites!
-* https://tristinkorbel.xyz
-* https://dragonsrule10.com
-* https://status.dragonsrule10.com
+Welcome to my GitHub profile! I'm currently studying **System/Network Administration** and love diving into the world of servers, automation, and open-source tech. My journey revolves around Linux, scripting, and sharing knowledge with the community.
 
-## Tech Stack!
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,cloudflare,discord,bots,docker,git,github,gmail,instagram,idea,linux,md,raspberrypi,vercel,vscode)](https://skillicons.dev)
+## 🛠️ Skills & Interests
 
-## Learning!
+- **Linux Administration:** Servers, networking, system configuration, and automation.
+- **Website Design:** Building and maintaining personal and portfolio sites.
+- **Scripting:** Bash for automation and efficiency.
+- **Markdown:** Documentation and technical writing.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,arduino,bash,discord,bots,docker,linux,robloxstudio,sqlite,svelte,ubuntu,windows)](https://skillicons.dev)
+---
+
+## 🌟 Featured Projects
+
+- [**Portfolio Site 1**](https://github.com/DragonsRule10/dragonsrule10.com): My main portfolio where you can find most of my online past positions, projects, and accomplishments.
+- [**Portfolio Site 2**](https://github.com/DragonsRule10/tristinkorbel.xyz): A more personal space with extra info about who I am and what I do.
+
+---
+
+## 🌐 Find Me Online
+
+- [YouTube](https://www.youtube.com/@DragonsRule10)  
+- [Instagram](https://www.instagram.com/dragonsrule08/)  
+- [Discord](https://discordapp.com/users/956007823261700107)  
+- [Blog](https://blog.dragonsrule10.com/)
+
+---
+
+## ✨ Fun Fact
+
+I have a **home lab** that I showcase regularly on my [blog](https://blog.dragonsrule10.com/) and [YouTube channel](https://www.youtube.com/@DragonsRule10). It's my playground for learning, experimenting, and sharing cool tech setups!
+
+---
+
+> **"Always learning. Always tinkering. Always sharing."**
+
+Thanks for stopping by! Feel free to connect or check out my projects above. 🚀
