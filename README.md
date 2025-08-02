@@ -35,7 +35,7 @@ I have a **home lab** that I showcase regularly on my [blog](https://blog.dragon
 
 ---
 
-> **"Always learning. Always tinkering. Always sharing."**
+> **"Never stop learning. Never stop exploring. Never stop."**
 
 Thanks for stopping by! Feel free to connect or check out my projects above. 🚀
 - me@tristinkorbel.xyz
