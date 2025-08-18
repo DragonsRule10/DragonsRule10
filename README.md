@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm currently studying **System/Network Administra
 - [**Portfolio Site 1**](https://github.com/DragonsRule10/dragonsrule10.com): My main portfolio where you can find most of my online past positions, projects, and accomplishments.
 - [**Portfolio Site 2**](https://github.com/DragonsRule10/tristinkorbel.xyz): A more personal space with extra info about who I am and what I do.
 - [**Manhunters Website**](https://github.com/Dragonsrule10/maritimemanhunters.com): My FTC robotic teams website.
-- Ingyte Solutions - soon.
+- [**Ingyte Solutions**](https://ignyte.solutions) - A different kind of cloud host.
 
 ---
 
