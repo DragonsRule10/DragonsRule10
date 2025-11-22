@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DragonsRule10!
+# 👋 Hi, I'm Tristin!
 
 Welcome to my GitHub profile! I'm currently studying **System/Network Administration** and love diving into the world of servers, automation, and open-source tech. My journey revolves around Linux, scripting, and sharing knowledge with the community.
 
