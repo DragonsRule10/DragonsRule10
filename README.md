@@ -24,8 +24,7 @@ Welcome to my GitHub profile! I'm currently studying **System/Network Administra
 
 ## 🌐 Find Me Online
 
-- [YouTube](https://www.youtube.com/@DragonsRule10)  
--  
+- [YouTube](https://www.youtube.com/@DragonsRule10)   
 - [Discord](https://discordapp.com/users/956007823261700107)  
 
 ---
